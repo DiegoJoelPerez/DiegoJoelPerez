@@ -5,6 +5,6 @@ Hola soy un chico al que le gusta los animes y los mira para rejalarse, le gusto
 estoy aprendiendo  a programar esta cool y me gusta esta experiencia
 ## Contactame
 A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy buscando proyectos y oportunidades colaborativos donde pueda contribuir con mis habilidades y crecer tanto personal como profesionalmente. ¡Conectémonos y exploremos cómo podemos crear algo increíble juntos!, Buscame en ig como @diegojoelmp y hablemos
-##Lenguages
+## Lenguages
 -English
 -Spanish
