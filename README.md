@@ -16,3 +16,6 @@ Competente en Java, aporto una sólida comprensión del desarrollo del lado del 
 full stack programacion
 Database managent 
 Problem- solving
+
+## Hobbies
+Jugar Dota 2, Ver Animes, Aprender Programacion,Escuchar Musica, Dar paseos solo,Ver peliculas, Ver Series, Dormir me gusta dormir 
